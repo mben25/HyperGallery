@@ -87,9 +87,6 @@ v3.6
 - Fix sepolicy denials
 - Script enhancements
 
-## Screenshots
-https://t.me/androidryukimods/180
-
 ## Requirements
 - HyperCore-A16 v1.1+ installed first (provides com.miui.core, com.miui.system, com.miui.rom, micloud-sdk, security-device-credential-sdk.jar)
 - arm64-v8a architecture
@@ -105,26 +102,10 @@ https://t.me/androidryukimods/180
 - If you are using SUList, you need to allow list manually your home launcher app (enable show system apps) and reboot afterwards
 - Go to app info of Gallery app and allow the network access to be able to download the online features
 
-## Optionals
-- https://t.me/ryukinotes/42
-- Global: https://t.me/ryukinotes/35
-
-## Troubleshootings
-- https://t.me/ryukinotes/19
-- Global: https://t.me/ryukinotes/34
-
 ## Support & Bug Report
-- https://t.me/ryukinotes/54
-- If you don't do above, issues will be closed immediately
+- https://github.com/mben25/HyperGallery/issues
 
 ## Credits and Contributors
-- Original module: Rei Ryuki the Fixer https://github.com/reiryuki
+- Original module: Rei Ryuki the Fixer
 - HyperCore-A16 port: mbenanaya
-- https://t.me/androidryukimodsdiscussions
-- https://t.me/androidappsportdevelopment
 - ANXCamera VIP Edition Team
-
-## Sponsors
-https://t.me/ryukinotes/25
-
-
