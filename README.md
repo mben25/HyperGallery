@@ -106,6 +106,5 @@ v3.6
 - https://github.com/mben25/HyperGallery/issues
 
 ## Credits and Contributors
-- Original module: Rei Ryuki the Fixer
 - HyperCore-A16 port: mbenanaya
 - ANXCamera VIP Edition Team
